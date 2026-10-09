@@ -91,7 +91,7 @@
 ### ⚙️ Mechanical Engineering Projects
 
 - 🔩 **Mechanical Design Projects**  
-  CFD analysis of an automobile radiator
+  CFD analysis of an automobile radiator<br>
   Electricity Generation Using Waste Materials
 
 ---
