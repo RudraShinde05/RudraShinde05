@@ -91,10 +91,8 @@
 ### ⚙️ Mechanical Engineering Projects
 
 - 🔩 **Mechanical Design Projects**  
-  Creating 3D models and engineering designs using CATIA and AutoCAD.
-
-- 🧪 **Engineering Analysis & Simulation**  
-  Exploring engineering analysis and simulation using ANSYS.
+  CFD analysis of an automobile radiator
+  Electricity Generation Using Waste Materials
 
 ---
 
